@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    height: 100px;
+    background-color: #F1DEC6;
+  }
+  
+  .header img {
+    width: 150px;
+    height: auto;
+  }
+  
+  .header h1 {
+    flex-grow: 1;
+    text-align: center;
+  }
+  

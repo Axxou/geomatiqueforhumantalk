@@ -1,0 +1,7 @@
+.listing-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 150px;
+    margin-top: 30px;
+  }
